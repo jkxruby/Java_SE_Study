@@ -35,3 +35,4 @@ public class Test01 {    // 正常情况下用 StringBulider即可， StringBuff
         System.out.println(max);
     }
 }
+
