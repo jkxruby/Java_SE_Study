@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64bca111-ce2f-447a-b1d2-e4dd426d646e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestInterfaceCase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jk/string/cn/jk/array/ArrayTest01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter02.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter.java" afterPath="$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter01.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/jk/stringbuilder/Test01.java" afterPath="$PROJECT_DIR$/src/cn/jk/stringbuilder/Test01.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,30 +60,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestOuter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter.java">
+      <file leaf-file-name="TestOuter01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="56" column="1" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="56" selection-end-column="1" />
+            <state relative-caret-position="135">
+              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding>
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="System.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <file leaf-file-name="TestOuter02.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="969" column="30" lean-forward="false" selection-start-line="969" selection-start-column="30" selection-end-line="969" selection-end-column="30" />
-              <folding>
-                <element signature="e#40917#40918#0" expanded="true" />
-                <element signature="e#40958#40959#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="381">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -116,6 +110,8 @@
         <option value="$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestInterfaceCase.java" />
         <option value="$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestInterface.java" />
         <option value="$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter.java" />
+        <option value="$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter01.java" />
+        <option value="$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter02.java" />
       </list>
     </option>
   </component>
@@ -222,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestOuter">
+  <component name="RunManager" selected="Application.TestOuter02">
     <configuration default="false" name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -291,6 +287,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="cn.jk.cn.jk.codeTest.TestOuter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="pro02" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestOuter02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.jk.cn.jk.codeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.jk.cn.jk.codeTest.TestOuter02" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -683,18 +699,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Test01" />
       <item index="1" class="java.lang.String" itemvalue="Application.ArrayTest01" />
       <item index="2" class="java.lang.String" itemvalue="Application.TestInterfaceCase" />
       <item index="3" class="java.lang.String" itemvalue="Application.TestOuter" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestOuter02" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestOuter" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestInterfaceCase" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ArrayTest01" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test01" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestOuter02" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestOuter" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestInterfaceCase" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ArrayTest01" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test01" />
       </list>
     </recent_temporary>
   </component>
@@ -708,12 +726,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539505316727</updated>
-      <workItem from="1539505318167" duration="18195000" />
+      <workItem from="1539505318167" duration="20812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18195000" />
+    <option name="totallyTimeSpent" value="20812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -728,7 +746,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -765,17 +783,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="969" column="30" lean-forward="false" selection-start-line="969" selection-start-column="30" selection-end-line="969" selection-end-column="30" />
-          <folding>
-            <element signature="e#40917#40918#0" expanded="true" />
-            <element signature="e#40958#40959#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/jk/stringbuilder/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-127">
@@ -811,16 +818,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="56" column="1" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="56" selection-end-column="1" />
+        <state relative-caret-position="135">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="969" column="30" lean-forward="false" selection-start-line="969" selection-start-column="30" selection-end-line="969" selection-end-column="30" />
+          <folding>
+            <element signature="e#40917#40918#0" expanded="true" />
+            <element signature="e#40958#40959#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/jk/cn/jk/codeTest/TestOuter02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
