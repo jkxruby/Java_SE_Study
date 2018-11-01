@@ -1,9 +1,6 @@
 package cn.jk.cn.jk.codeTest;
 import javax.swing.JFrame;
 
-/**
- * Created by jkx on 2018/11/1.
- */
 public class TestFrameDemo01 extends JFrame {   // 继承自JFrame
     public TestFrameDemo01(){
         super("我的窗口");  //调用父类构造方法制定的窗口标题
@@ -16,5 +13,4 @@ public class TestFrameDemo01 extends JFrame {   // 继承自JFrame
         TestFrameDemo01 frame = new TestFrameDemo01();
         frame.setVisible(true);  // 使窗口可见
     }
-
 }
